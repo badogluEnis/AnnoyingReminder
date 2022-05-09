@@ -1,0 +1,15 @@
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\bin\Debug\Jürg Reminder.exe.config
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\bin\Debug\Jürg Reminder.exe
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\bin\Debug\Jürg Reminder.pdb
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.csproj.GenerateResource.cache
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.csproj.CoreCompileInputs.cache
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.exe
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.pdb
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\bin\Debug\Jürg Reminder.exe.manifest
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\bin\Debug\Jürg Reminder.application
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.TrustInfo.xml
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.exe.manifest
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.application
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg_Reminder.ReminderForm.resources
+C:\Users\Enis Badoglu\Documents\work\Jürg Reminder\Jürg Reminder\obj\Debug\Jürg Reminder.csproj.AssemblyReference.cache
